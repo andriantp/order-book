@@ -10,35 +10,35 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 # 📚 Related Articles
 
-## Phase 1 — Foundations
+## Phase 1 : Foundations
 
-- What Is an Order Book? — [Chapter 1](https://andriantriputra.medium.com)
-- Price-Time Priority — [Chapter 2](https://andriantriputra.medium.com)
-- Order Book Data Structures — [Chapter 3](https://andriantriputra.medium.com)
+- What Is an Order Book? : [Chapter 1](https://andriantriputra.medium.com)
+- Price-Time Priority : [Chapter 2](https://andriantriputra.medium.com)
+- Order Book Data Structures : [Chapter 3](https://andriantriputra.medium.com)
 
-## Phase 2 — Core Engine
+## Phase 2 : Core Engine
 
-- Building the Order Book — [Chapter 4](https://andriantriputra.medium.com)
-- Building a Matching Engine — [Chapter 5](https://andriantriputra.medium.com)
-- Market Orders vs Limit Orders — [Chapter 6](https://andriantriputra.medium.com)
-- Order Cancellation — [Chapter 7](https://andriantriputra.medium.com)
+- Building the Order Book : [Chapter 4](https://andriantriputra.medium.com)
+- Building a Matching Engine : [Chapter 5](https://andriantriputra.medium.com)
+- Market Orders vs Limit Orders : [Chapter 6](https://andriantriputra.medium.com)
+- Order Cancellation : [Chapter 7](https://andriantriputra.medium.com)
 
-## Phase 3 — Reliability
+## Phase 3 : Reliability
 
-- Event-Sourced Order Book — [Chapter 8](https://andriantriputra.medium.com)
-- Snapshot and Recovery — [Chapter 9](https://andriantriputra.medium.com)
+- Event-Sourced Order Book : [Chapter 8](https://andriantriputra.medium.com)
+- Snapshot and Recovery : [Chapter 9](https://andriantriputra.medium.com)
 
-## Phase 4 — Distribution
+## Phase 4 : Distribution
 
-- Distributed Matching Engine — [Chapter 10](https://andriantriputra.medium.com)
-- Market Sharding — [Chapter 11](https://andriantriputra.medium.com)
-- Shard Ownership — [Chapter 12](https://andriantriputra.medium.com)
-- Replicated Order Book — [Chapter 13](https://andriantriputra.medium.com)
-- Fault-Tolerant Exchange — [Chapter 14](https://andriantriputra.medium.com)
+- Distributed Matching Engine : [Chapter 10](https://andriantriputra.medium.com)
+- Market Sharding : [Chapter 11](https://andriantriputra.medium.com)
+- Shard Ownership : [Chapter 12](https://andriantriputra.medium.com)
+- Replicated Order Book : [Chapter 13](https://andriantriputra.medium.com)
+- Fault-Tolerant Exchange : [Chapter 14](https://andriantriputra.medium.com)
 
-## Phase 5 — Read Models
+## Phase 5 : Read Models
 
-- CQRS for Market Data — [Chapter 15](https://andriantriputra.medium.com)
+- CQRS for Market Data : [Chapter 15](https://andriantriputra.medium.com)
 
 ---
 
