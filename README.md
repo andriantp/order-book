@@ -12,8 +12,8 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 ## Phase 1 : Foundations
 
-- What Is an Order Book? : [Chapter 1](https://andriantriputra.medium.com)
-- Price-Time Priority : [Chapter 2](https://andriantriputra.medium.com)
+- What Is an Order Book? : [Chapter 1](https://medium.com/@andriantriputra/orderbook-1-what-is-an-order-book-dc8221b80992)
+- Price-Time Priority : [Chapter 2](https://medium.com/@andriantriputra/orderbook-2-price-time-priority-86db43dfd7d3)
 - Order Book Data Structures : [Chapter 3](https://andriantriputra.medium.com)
 
 ## Phase 2 : Core Engine
