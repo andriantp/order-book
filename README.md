@@ -18,7 +18,7 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 ## Phase 2 : Core Engine
 
-- Building the Order Book : [Chapter 4](https://andriantriputra.medium.com)
+- Building the Order Book : [Chapter 4](https://medium.com/@andriantriputra/orderbook-4-building-the-order-book-cc3abb17c1ee)
 - Building a Matching Engine : [Chapter 5](https://andriantriputra.medium.com)
 - Market Orders vs Limit Orders : [Chapter 6](https://andriantriputra.medium.com)
 - Order Cancellation : [Chapter 7](https://andriantriputra.medium.com)
