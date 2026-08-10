@@ -20,7 +20,7 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 - Building the Order Book : [Chapter 4](https://medium.com/@andriantriputra/orderbook-4-building-the-order-book-cc3abb17c1ee)
 - Building a Matching Engine : [Chapter 5](https://medium.com/@andriantriputra/orderbook-5-building-a-matching-engine-aca5fbc64742)
-- Market Orders vs Limit Orders : [Chapter 6](https://andriantriputra.medium.com)
+- Market Orders vs Limit Orders : [Chapter 6](https://medium.com/@andriantriputra/orderbook-6-market-orders-vs-limit-orders-c5e09185c2f8)
 - Order Cancellation : [Chapter 7](https://andriantriputra.medium.com)
 
 ## Phase 3 : Reliability
