@@ -26,7 +26,7 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 ## Phase 3 : Reliability
 
 - Event-Sourced Order Book : [Chapter 8](https://medium.com/@andriantriputra/orderbook-8-event-sourced-order-book-778dc8b14483)
-- Snapshot and Recovery : [Chapter 9](https://andriantriputra.medium.com)
+- Snapshot and Recovery : [Chapter 9](https://medium.com/@andriantriputra/orderbook-9-snapshot-and-recovery-155b0ff133a3)
 
 ## Phase 4 : Distribution
 
