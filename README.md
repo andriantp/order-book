@@ -30,7 +30,7 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 ## Phase 4 : Distribution
 
-- Distributed Matching Engine : [Chapter 10](https://andriantriputra.medium.com)
+- Distributed Matching Engine : [Chapter 10](https://medium.com/@andriantriputra/orderbook-10-distributed-matching-engine-1da770164b1e)
 - Market Sharding : [Chapter 11](https://andriantriputra.medium.com)
 - Shard Ownership : [Chapter 12](https://andriantriputra.medium.com)
 - Replicated Order Book : [Chapter 13](https://andriantriputra.medium.com)
