@@ -32,7 +32,7 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 - Distributed Matching Engine : [Chapter 10](https://medium.com/@andriantriputra/orderbook-10-distributed-matching-engine-1da770164b1e)
 - Market Sharding : [Chapter 11](https://medium.com/@andriantriputra/orderbook-11-market-sharding-69bbebe46651)
-- Shard Ownership : [Chapter 12](https://andriantriputra.medium.com)
+- Shard Ownership : [Chapter 12](https://medium.com/@andriantriputra/orderbook-12-shard-ownership-57fa9f98f751)
 - Replicated Order Book : [Chapter 13](https://andriantriputra.medium.com)
 - Fault-Tolerant Exchange : [Chapter 14](https://andriantriputra.medium.com)
 
