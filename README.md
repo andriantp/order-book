@@ -38,7 +38,7 @@ Each chapter introduces one concept at a time, keeping the implementation small,
 
 ## Phase 5 : Read Models
 
-- CQRS for Market Data : [Chapter 15](https://andriantriputra.medium.com)
+- CQRS for Market Data : [Chapter 15](https://medium.com/@andriantriputra/orderbook-15-cqrs-for-market-data-ca664d09e969)
 
 ---
 
